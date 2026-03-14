@@ -1,0 +1,12 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"piska" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/piska.dir/piska.gcm"
+		}
+	},
+	"usages" : {}
+}

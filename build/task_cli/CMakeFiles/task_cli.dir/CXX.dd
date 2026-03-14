@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build task_cli/CMakeFiles/task_cli.dir/main.cpp.o: dyndep | task_cli/CMakeFiles/task_cli.dir/piska.gcm
+
+build task_cli/CMakeFiles/task_cli.dir/piska.cppm.o | task_cli/CMakeFiles/task_cli.dir/piska.gcm: dyndep
+  restat = 1
+

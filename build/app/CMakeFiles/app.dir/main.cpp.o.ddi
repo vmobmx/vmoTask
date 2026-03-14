@@ -1,0 +1,14 @@
+{
+"rules": [
+{
+"primary-output": "app/CMakeFiles/app.dir/main.cpp.o",
+"requires": [
+{
+"logical-name": "piska"
+}
+]
+}
+],
+"version": 0,
+"revision": 0
+}

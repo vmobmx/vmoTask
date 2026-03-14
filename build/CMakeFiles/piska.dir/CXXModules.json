@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"piska" : 
+		{
+			"bmi" : "/home/uoua/Documents/learnC/vmoTask/build/CMakeFiles/piska.dir/piska.gcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"piska" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/piska.dir/piska.gcm"
+		}
+	},
+	"usages" : {}
+}

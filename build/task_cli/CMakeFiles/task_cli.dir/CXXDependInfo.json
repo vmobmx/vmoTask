@@ -1,0 +1,42 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"task_cli/CMakeFiles/task_cli.dir/piska.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/uoua/Documents/learnC/vmoTask/task_cli/piska.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/uoua/Documents/learnC/vmoTask/build/task_cli",
+	"dir-cur-src" : "/home/uoua/Documents/learnC/vmoTask/task_cli",
+	"dir-top-bld" : "/home/uoua/Documents/learnC/vmoTask/build",
+	"dir-top-src" : "/home/uoua/Documents/learnC/vmoTask",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/uoua/Documents/learnC/vmoTask/json_lib"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/uoua/Documents/learnC/vmoTask/build/task_cli/CMakeFiles/task_cli.dir",
+	"sources" : 
+	{
+		"task_cli/CMakeFiles/task_cli.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/uoua/Documents/learnC/vmoTask/task_cli/main.cpp"
+		}
+	}
+}
