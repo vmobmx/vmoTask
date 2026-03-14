@@ -32,3 +32,36 @@ void jl_doc_free(jlJsonDoc* doc) {
 
   free(doc);
 }
+
+void processLine(const char* line, int* nestingLvl) {
+  if(line == NULL) {
+    return;
+  }
+  if(line[0] == '{') {
+    ++nestingLvl;
+  }
+  else if(line[0] == '}') {
+    --nestingLvl;
+  }
+}
+
+int jl_load_data(jlJsonDoc* doc, const char* fileName) {
+  FILE* file;
+  size_t N = 80;
+  char arr[N];
+
+  file = fopen(fileName, "r");
+
+  if(file == NULL) {
+    return 1;
+  }
+
+  while(fgets(arr, N, file) != NULL) {
+    printf("%s", arr);
+  }
+
+  printf("\n");
+  fclose(file);
+
+  return 0;
+}
