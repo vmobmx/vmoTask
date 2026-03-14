@@ -1,8 +1,0 @@
-/home/uoua/Documents/learnC/vmoTask/build/CMakeFiles/edit_cache.dir
-/home/uoua/Documents/learnC/vmoTask/build/CMakeFiles/rebuild_cache.dir
-/home/uoua/Documents/learnC/vmoTask/build/json_lib/CMakeFiles/json_lib.dir
-/home/uoua/Documents/learnC/vmoTask/build/json_lib/CMakeFiles/edit_cache.dir
-/home/uoua/Documents/learnC/vmoTask/build/json_lib/CMakeFiles/rebuild_cache.dir
-/home/uoua/Documents/learnC/vmoTask/build/task_cli/CMakeFiles/task_cli.dir
-/home/uoua/Documents/learnC/vmoTask/build/task_cli/CMakeFiles/edit_cache.dir
-/home/uoua/Documents/learnC/vmoTask/build/task_cli/CMakeFiles/rebuild_cache.dir
